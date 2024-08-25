@@ -1,0 +1,13 @@
+body {
+  background-color: yellow;
+}
+
+h1 {
+  font-size: 80px;
+  font-style: inherit;
+  color: #399;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  border-bottom: 5px solid #000;
+  display: inline-block;
+  text-shadow: 6px 2px 2px black;
+}
